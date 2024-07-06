@@ -21,6 +21,19 @@ This project analyzes bike ride data in London, focusing on generating a moving 
    pip install pandas matplotlib seaborn openpyxl
 
 
+## Usage
+
+1. **Open the Jupyter Notebook**:
+
+   ```sh
+  jupyter notebook london_bikes.ipynb
+
+1. **Install the required Python packages**:
+
+   ```sh
+   pip install pandas matplotlib seaborn openpyxl
+
+
 Usage
 
 Open the Jupyter Notebook:
