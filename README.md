@@ -15,8 +15,10 @@ This project analyzes bike ride data in London, focusing on generating a moving 
    git clone https://github.com/yourusername/london-bike-rides-analysis.git
    cd london-bike-rides-analysis
 
-Install the required Python packages:
-shCopypip install pandas matplotlib seaborn openpyxl
+1. **Install the required Python packages**:
+
+   ```sh
+   pip install pandas matplotlib seaborn openpyxl
 
 
 Usage
