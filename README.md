@@ -36,6 +36,26 @@ This project analyzes bike ride data in London, focusing on generating a moving 
 
    Open London Bike Rides - Moving Average and Heatmap.twbx in Tableau to explore the interactive visualizations.
 
+
+## Analysis Overview
+
+### Moving Average
+
+The moving average helps smooth out short-term fluctuations and highlight longer-term trends or cycles in the bike ride data.
+
+### Heatmap
+
+The heatmap provides a visual representation of the density of bike rides over time and across different locations in London.
+
+### Data
+
+The data used in this analysis includes information on bike rides in London, such as the start and end times, locations, and other relevant details.
+
+### Tutorial
+
+This project was developed following a tutorial on YouTube. The tutorial provided step-by-step instructions on how to perform the analysis and create visualizations. You can find the tutorial [here](https://www.youtube.com/watch?v=nl9eZl1IOKI).
+
+
    
 
 
