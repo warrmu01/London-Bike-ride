@@ -28,18 +28,15 @@ This project analyzes bike ride data in London, focusing on generating a moving 
    ```sh
    jupyter notebook london_bikes.ipynb
 
-2. **Run the Notebook:**:
+2. **Run the Notebook**:
 
    Follow the instructions in the notebook to load the data, perform the analysis, and generate the visualizations.
 
+3. **View Tableau Workbook**:
+
+   Open London Bike Rides - Moving Average and Heatmap.twbx in Tableau to explore the interactive visualizations.
 
    
 
 
 
-Follow the instructions in the notebook to load the data, perform the analysis, and generate the visualizations.
-
-
-View Tableau Workbook:
-
-Open London Bike Rides - Moving Average and Heatmap.twbx in Tableau to explore the interactive visualizations.
