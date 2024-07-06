@@ -15,7 +15,7 @@ This project analyzes bike ride data in London, focusing on generating a moving 
    git clone https://github.com/yourusername/london-bike-rides-analysis.git
    cd london-bike-rides-analysis
 
-1. **Install the required Python packages**:
+2. **Install the required Python packages**:
 
    ```sh
    pip install pandas matplotlib seaborn openpyxl
@@ -26,20 +26,16 @@ This project analyzes bike ride data in London, focusing on generating a moving 
 1. **Open the Jupyter Notebook**:
 
    ```sh
-  jupyter notebook london_bikes.ipynb
+   jupyter notebook london_bikes.ipynb
 
-1. **Install the required Python packages**:
+2. **Run the Notebook:**:
 
-   ```sh
-   pip install pandas matplotlib seaborn openpyxl
+   Follow the instructions in the notebook to load the data, perform the analysis, and generate the visualizations.
 
 
-Usage
+   
 
-Open the Jupyter Notebook:
-shCopyjupyter notebook london_bikes.ipynb
 
-Run the Notebook:
 
 Follow the instructions in the notebook to load the data, perform the analysis, and generate the visualizations.
 
