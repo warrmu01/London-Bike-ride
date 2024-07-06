@@ -12,7 +12,7 @@ This project analyzes bike ride data in London, focusing on generating a moving 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/london-bike-rides-analysis.git
+   git clone https://github.com/yourusername/London-bike-rides-analysis.git
    cd london-bike-rides-analysis
 
 2. **Install the required Python packages**:
@@ -54,6 +54,12 @@ The data used in this analysis includes information on bike rides in London, suc
 ### Tutorial
 
 This project was developed following a tutorial on YouTube. The tutorial provided step-by-step instructions on how to perform the analysis and create visualizations. You can find the tutorial [here](https://www.youtube.com/watch?v=nl9eZl1IOKI).
+
+
+## Contact
+
+For any questions or inquiries, please contact [Mughees Warraich](mailto:Mugheeswarraich11@gmail.com).
+
 
 
    
