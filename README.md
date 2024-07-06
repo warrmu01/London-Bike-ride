@@ -6,6 +6,9 @@ This project analyzes bike ride data in London, focusing on generating a moving 
 
 * `london_bikes.ipynb`: Jupyter Notebook containing the code for data analysis and visualization.
 * `London Bike Rides - Moving Average and Heatmap.twbx`: Tableau workbook with visualizations for the moving average and heatmap of the bike rides.
+* `london_bikes_final.xlsx`: Excel file containing the data ready for visualization in Tableau.
+
+
 
 ## Installation
 
